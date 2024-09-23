@@ -1,98 +1,111 @@
-# COE
 
-
-### Might & Harvest: Council of Elders
-
-Počet hráčů: 3–5  
-Délka hry: 45–90 minut  
-Doporučený věk: 12+  
-Žánr: Strategická karetní hra s obchodováním a plánováním
+Herní návod pro hru "Might & Harvest: Council of Elders"
 
 ----------
 
-### Příběh hry:
+### Počet hráčů: 2–5
 
-Hráči se ocitají v roli vůdců starobylého království Eldoria, kde je cílem dosáhnout rovnováhy mezi získáváním surovin (byliny a krystaly) a posilováním moci. Každý hráč spravuje své království a snaží se získat přízeň Rady starších pomocí sběru surovin a vytváření mocných kombinací.
+### Délka hry: 45–90 minut
 
-### Cíl hry:
+### Doporučený věk: 12+
 
-Cílem hry je být hráčem s největším počtem bodů na konci hry. Body se získávají za sklizeň bylin a krystalů, za splnění tajných úkolů a za vytvoření mocných artefaktů.
+### Žánr: Strategická karetní hra s prvky boje a ekonomiky
 
-### Komponenty hry:
+----------
 
--   Karty bylin: 5 druhů (např. Mandragora, Heřmánek, Měsíček, Levandule, Šalvěj).
-    
--   Karty krystalů: 4 druhy (např. Rubín, Safír, Smaragd, Diamant).
-    
--   Karty úkolů: Tajné úkoly, které hráči mohou plnit pro získání bodů.
-    
--   Karty artefaktů: Karty představující kombinace bylin a krystalů, které přináší body navíc.
-    
--   Žetony bodů: Pro počítání bodů hráčů.
-    
--   Desky hráčů: Pro zaznamenávání pokroku a stavby artefaktů.
-    
+## Příběh hry:
 
-### Příprava hry:
+V království Eldoria nastala doba nejistoty a změn. Mocná Rada starších pověřila vybrané vůdce, aby obnovili rovnováhu mezi silou a prosperitou země. Hráči se ujímají role těchto vůdců a budou muset moudře spravovat své království, těžit vzácné krystaly, pěstovat léčivé byliny, budovat armády a zajišťovat si přízeň Rady starších. Jen ten, kdo dosáhne harmonie mezi silou (Might) a sklizní (Harvest), se stane vítězem a získa přízeň Rady starších.
 
-1.  Rozdělení karet: Zamíchejte balíčky bylin, krystalů, artefaktů a úkolů zvlášť.
-    
-2.  Startovní ruce: Každý hráč dostane 5 karet z balíčku bylin a krystalů.
-    
-3.  Určení pořadí karet: Po rozdání karet hráči nesmí měnit pořadí karet v ruce, což je klíčový prvek hry (stejně jako v Bohnanze).
-    
-4.  Střední balíček: Zbylé karty bylin a krystalů tvoří dobírací balíček na stole.
-    
-5.  Rozložení artefaktů a úkolů: Položte několik karet artefaktů a úkolů lícem nahoru na stůl. Tyto karty jsou dostupné pro všechny hráče.
-    
+## Cíl hry:
 
-### Průběh hry:
+Hráči se snaží vybudovat nejmocnější království tím, že získávají suroviny, budují armády a plní tajné úkoly zadané Radou starších. Hra končí po 7 kolech, poté se hráči vyhodnotí podle dosaženého bohatství, úspěchů v bitvách a splněných úkolů.
 
-Hra se hraje na kola, ve kterých hráči střídavě provádějí tyto fáze:
+## Komponenty hry:
 
-#### 1. Fáze sklizně (Harvest)
-
--   Hráč musí zasadit (vyložit) první kartu z ruky na jedno ze svých polí (maximálně 2 pole).
+-   Karty surovin: Obsahují různé typy bylin (5 druhů) a krystalů (4 druhy).
     
--   Pokud je na poli již stejná karta, přidává ji k ní. Pokud je to jiný typ, musí kartu zasadit na nové pole, nebo sklidit aktuální pole, aby uvolnil místo.
+-   Karty akce: Karty umožňující speciální akce jako útoky, diplomacii nebo sběr surovin.
     
--   Po zasazení první karty může hráč zasadit druhou kartu z ruky, pokud chce a má místo.
+-   Karty artefaktů: Magické předměty, které hráči mohou využít k získání výhod nebo bodů.
+    
+-   Karty úkolů: Tajné úkoly, které hráči mohou plnit pro získání bonusových bodů.
+    
+-   Žetony bodů: Pro sledování skóre každého hráče.
+    
+-   Desky hráčů: Desky, kde hráči zaznamenávají stav svého království, počet surovin, sílu armád a další důležité informace.
+    
+-   Rada starších: Centrální deska, na které se rozhoduje o důležitých událostech ve hře.
     
 
-#### 2. Fáze obchodování (Might)
+## Příprava hry:
 
--   Hráč otočí dvě karty z vrchu balíčku na stůl.
+1.  Rozložení karet: Zamíchejte balíčky karet surovin, akčních karet, artefaktů a úkolů zvlášť. Vytvořte balíčky a umístěte je na střed stolu.
     
--   Následuje obchodování s ostatními hráči, kde mohou všichni vyjednávat o výměně karet z ruky nebo karet na stole. Hráči mohou obchodovat jak s kartami z ruky, tak s odkrytými kartami, které musí být po obchodu zasazeny.
+2.  Rozdání desek hráčů: Každý hráč obdrží jednu desku hráče, kde bude sledovat svůj pokrok.
     
--   Hráči mohou také nabídnout nebo požádat o pomoc při dokončení artefaktu nebo úkolu, výměnou za suroviny nebo body.
+3.  Rozdělení startovních karet: Každý hráč dostane 3 karty surovin, 2 karty akce a 1 kartu úkolu.
     
-
-#### 3. Fáze dobírání karet
-
--   Po ukončení obchodování si hráč dobírá 3 karty z balíčku a přidává je do ruky, přičemž musí zachovat pořadí, ve kterém karty do ruky dorazily.
-    
--   Hráči mohou kdykoli během hry provést sklizeň, což znamená, že vezmou všechny karty z jednoho pole, odloží je a získají odpovídající body za sklizené karty podle bodového schématu.
+4.  Určení pořadí hráčů: Hráči si určí, kdo začne hru, a poté hra pokračuje ve směru hodinových ručiček.
     
 
-### Bodování:
+## Průběh hry:
 
--   Sklizeň: Každá sklizeň přináší body podle počtu a typu sklízených karet (např. 3 karty Měsíčku mohou dát 6 bodů).
+Hra se skládá z 7 kol, přičemž každé kolo se dělí do tří fází:
+
+### 1. Fáze sklizně (Harvest)
+
+-   Sběr surovin: Hráči se rozhodují, které byliny a krystaly budou sbírat. Každý hráč může sklízet suroviny z jedné provincie na své desce hráče.
     
--   Artefakty: Hráči mohou kombinovat určité byliny a krystaly pro vytvoření artefaktů, které přinášejí bonusové body.
-    
--   Plnění úkolů: Splnění tajných úkolů přidává body podle náročnosti úkolu.
+-   Použití bylin a krystalů: Byliny mohou být využity k léčbě a diplomacii, zatímco krystaly mohou být použity k aktivaci speciálních schopností nebo k vylepšení armád.
     
 
-### Konec hry:
+### 2. Fáze akce (Might)
 
-Hra končí, jakmile je vyčerpán balíček karet a nelze více dobírat. Hráči pak provedou poslední sklizeň a sečtou své body za sklizené plodiny, artefakty a splněné úkoly. Hráč s nejvyšším počtem bodů je vítěz a získává přízeň Rady starších.
+Každý hráč má během této fáze dvě akce. Mezi akce patří:
 
-### Strategické tipy:
-
-1.  Správné plánování: Mějte na paměti pořadí karet ve své ruce a plánujte, kdy které karty zasadit nebo obchodovat.
+-   Těžba surovin: Posílání pracovníků k těžbě krystalů nebo sběru bylin.
     
-2.  Vyjednávejte chytře: Obchodování může rozhodnout o vítězství. Nabídněte ostatním hráčům výhodné obchody, ale buďte připraveni zradit, pokud to přinese více bodů.
+-   Budování armád: Najímání vojáků, vylepšování zbraní nebo budování obranných struktur.
     
-3.  Vytvářejte artefakty: Zkombinujte správné karty, abyste vytvořili mocné artefakty, které vám přinesou body navíc.
-4.  
+-   Diplomacie: Vyjednávání s ostatními hráči nebo Radou starších. Možnost uzavírání aliancí nebo vyhlašování válek.
+    
+-   Vytváření artefaktů: Kombinace bylin a krystalů k vytvoření magických předmětů, které hráčům poskytují výhody.
+    
+-   Plnění úkolů: Hráči mohou během této fáze plnit úkoly, které mají na své kartě úkolů.
+    
+
+### 3. Fáze Rady starších
+
+-   Nové úkoly a události: Na začátku každé této fáze Rada starších odhalí nové úkoly a rozhodne o událostech, které ovlivní průběh hry (např. invaze, přírodní katastrofy, požehnání úrodě).
+    
+-   Ovlivňování Rady: Hráči mohou ovlivnit rozhodnutí Rady starších tím, že jí nabídnou dary v podobě bylin a krystalů. To může zajistit výhodnější úkoly nebo ochranu před negativními událostmi.
+    
+
+## Bodování:
+
+Hráči získávají body za:
+
+-   Kombinace bylin a krystalů: Vytváření artefaktů a lektvarů přináší body.
+    
+-   Plnění úkolů: Úkoly zadané Radou starších poskytují bonusové body.
+    
+-   Bitvy: Vyhrané bitvy zajišťují body podle síly protivníka a počtu využitých surovin.
+    
+
+## Konec hry:
+
+Hra končí po 7 kolech. Hráči sečtou své body za kombinace, plněné úkoly a vítězné bitvy. Hráč s nejvyšším počtem bodů je vítězem a získává přízeň Rady starších.
+
+## Strategické tipy:
+
+1.  Vyvažujte rozvoj: Nepodceňujte sílu armády ani sběr surovin. Harmonický rozvoj vám zajistí více bodů.
+    
+2.  Využívejte Radu starších: Rada může přinést významné výhody. Dary krystalů a bylin vám mohou zajistit lepší úkoly nebo ochranu.
+    
+3.  Diplomacie jako klíč: Spojenectví s ostatními hráči vám může pomoci přežít kritické chvíle, ale zrada ve správný moment může rozhodnout hru ve váš prospěch.
+    
+
+----------
+
+Tento návod by měl poskytnout vše potřebné k pochopení a hraní hry "Might & Harvest: Council of Elders". Hra kombinuje strategické plánování, správu zdrojů a diplomacii, což vytváří dynamický a napínavý herní zážitek.
