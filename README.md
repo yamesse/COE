@@ -1,7 +1,4 @@
 # COE
-Might &amp; Harvest: Council of Elders
-
-
 
 
 ### Might & Harvest: Council of Elders
